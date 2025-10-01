@@ -1,0 +1,5 @@
+node_modules/
+.env
+package-lock.json
+src/api/uploads/file/images/*
+!src/api/uploads/file/images/.gitkeep
